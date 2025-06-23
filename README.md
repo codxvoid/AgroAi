@@ -1,10 +1,13 @@
-#  AgroAi — Intelligent Agricultural Agent System
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codxvoid/AgroAi/main/IMG/agro.png" alt="AgroAi Logo" width="250"/>
+</p>
 
-**An independently developed research prototype by Keshari Nandan via the open-source by [Codxvoid](https://github.com/codxvoid)**
+<h1 align="center">AgroAi</h1>
+<p align="center"><strong>Intelligent Insights for Smarter Agriculture</strong></p>
+<p align="center"><em>Prototype research independently developed by Keshari Nandan</em></p>
+<p align="center">Open-source initiative by <a href="https://github.com/codxvoid">Codxvoid</a> · Part of <a href="https://uisr.org">UISR.org</a></p>
+<p align="center">Contact: <a href="mailto:devsorg@hotmail.com">devsorg@hotmail.com</a></p>
 
-Part of [UISR](https://uisr.org) 
-
-Contact: [devsorg@hotmail.com](mailto:devsorg@hotmail.com)
 
 ---
 
@@ -60,7 +63,17 @@ For contributions, collaborations, or usage requests, contact us at [devsorg@hot
 
 ## Credits
 
-**Author:** Keshari Nandan    
-**LinkedIn:** [iKeshariNandan](https://linkedin.com/in/ikesharinandan)  
+<p align="center">
+  <strong>Project by:</strong><br/>
+  Keshari Nandan  
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ikesharinandan" target="_blank">LinkedIn: iKeshariNandan</a>
+</p>
+
+<p align="center">
+  Maintained by <a href="https://github.com/codxvoid">Codxvoid</a> 
+</p>
 
 ---
