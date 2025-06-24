@@ -14,18 +14,16 @@
         setQuery('');
 
         try {
-          // --- CHANGE THIS LINE ---
-          // Append '/query' to your worker URL
+  
           const res = await fetch('https://agro-mai.devsorg.workers.dev/query', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ query }),
           });
 
-          // --- IMPROVE ERROR HANDLING FOR BETTER DEBUGGING ---
           if (!res.ok) {
               const errorData = await res.json();
-              console.error("Worker Error:", errorData); // Log the detailed error from the worker
+              console.error("Worker Error:", errorData); 
               throw new Error(errorData.error || `HTTP error! status: ${res.status}`);
           }
 
@@ -33,7 +31,7 @@
           const botMessage = { role: 'bot', text: data.text || 'No response' };
           setMessages((prev) => [...prev, botMessage]);
         } catch (err) {
-          console.error("Frontend Fetch Error:", err); // Log the actual fetch error
+          console.error("Frontend Fetch Error:", err); 
           setMessages((prev) => [...prev, { role: 'bot', text: 'Error getting response: ' + err.message }]);
         }
       };
@@ -90,10 +88,8 @@
             </div>
           </div>
 
-          {/* License Footer */}
+  
           <div className="mt-4 text-xs text-center text-gray-500 max-w-xl space-y-2">
-
-            {/* Creative Commons License */}
             <p>
               <a href="https://github.com/codxvoid/AgroAi" className="underline">AgroAi</a> © 2025 by{' '}
               <a href="https://github.com/codxvoid" className="underline">CodxVoid</a> is licensed under{' '}
@@ -104,7 +100,6 @@
               <img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" className="inline-block w-4 h-4 ml-1" alt="ND" />
             </p>
 
-            {/* GNU GPL v3 License */}
             <p>
               The source code is open-source and released under the{' '}
               <a
