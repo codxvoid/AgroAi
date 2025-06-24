@@ -77,7 +77,36 @@ return (
         </button>
       </div>
     </div>
-        
+
+     {/* License Footer */}
+<div className="mt-4 text-xs text-center text-gray-500 max-w-xl space-y-2">
+
+  {/* Creative Commons License */}
+  <p>
+    <a href="https://github.com/codxvoid/AgroAi" className="underline">AgroAi</a> © 2025 by{' '}
+    <a href="https://github.com/codxvoid" className="underline">CodxVoid</a> is licensed under{' '}
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" className="underline">Creative Commons BY-NC-ND 4.0</a>
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" className="inline-block w-4 h-4 ml-1" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" className="inline-block w-4 h-4 ml-1" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" className="inline-block w-4 h-4 ml-1" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" className="inline-block w-4 h-4 ml-1" />
+  </p>
+
+  {/* GNU GPL v3 License */}
+  <p>
+    The source code is open-source and released under the{' '}
+    <a
+      href="https://www.gnu.org/licenses/gpl-3.0.en.html"
+      className="underline"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      GNU General Public License v3.0
+    </a>{' '}
+    (June 29, 2007).
+  </p>
+
+</div>
 
   </div>
 );

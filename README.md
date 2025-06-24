@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codxvoid/AgroAi/main/IMG/agro.png" alt="AgroAi Logo" width="250"/>
+  <img src="https://github.com/codxvoid/AgroAi/blob/main/src/assets/agroai.png" alt="AgroAi Logo" width="250"/>
 </p>
 
 <h1 align="center">AgroAi</h1>
@@ -73,7 +73,19 @@ For contributions, collaborations, or usage requests, contact us at [devsorg@hot
 </p>
 
 <p align="center">
-  Maintained by <a href="https://github.com/codxvoid">Codxvoid</a> 
+  <a href="https://github.com/codxvoid/AgroAi">AgroAi</a> © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+  <p>
+   The source code is open-source and released under the
+    <a
+      href="https://www.gnu.org/licenses/gpl-3.0.en.html"
+      className="underline"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      GNU General Public License v3.0
+    </a>
+    (June 29, 2007).
+  </p>
 </p>
 
 ---
