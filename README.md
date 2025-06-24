@@ -21,7 +21,7 @@
 -  **Crop Suitability & Productivity Forecasting**  
 -  **Terminal / CLI-based AI Query System**
 
-Powered by AI agents (e.g., Gemini, Google Earth API integration), AgroAI doesn't just answer — it **predicts, explains, and advises**.
+Powered by **AgroAi Agents** With Using *Tech-infra of LLM* (e.g. Gemini, Llama), AgroAI doesn't just answer — it **predicts, explains, and advises**.
 
 ---
 
