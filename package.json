@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.1.0",
@@ -26,5 +28,7 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.10",
     "vite": "^6.3.5"
-  }
+  },
+  "homepage": "https://codxvoid.github.io/AgroAi"
+
 }
