@@ -5,7 +5,7 @@
 <h1 align="center">AgroAi</h1>
 <p align="center"><strong>Intelligent Insights for Smarter Agriculture</strong></p>
 <p align="center"><em>Prototype research independently developed by Keshari Nandan</em></p>
-<p align="center">Open-source initiative by <a href="https://github.com/codxvoid">Codxvoid</a> · Part of <a href="https://uisr.org">UISR.org</a></p>
+<p align="center">Open-source initiative by <a href="https://github.com/codxvoid">Codxvoid</a> · 
 <p align="center">Contact: <a href="mailto:devsorg@hotmail.com">devsorg@hotmail.com</a></p>
 
 
@@ -49,14 +49,14 @@ Powered by **AgroAi Agents** With Using *Tech-infra of Ai-LLM*, AgroAI doesn't j
 
 ##  License
 
-© 2025 UISR.org — All rights reserved.  
+© 2025 codxvoid — All rights reserved.  
 This research is shared under **GNU General Public License v3.0** & **Creative Commons BY-NC-ND 4.0**.  
 Please do not use for commercial purposes without permission.
 
 - **Code:** [GNU General Public License v3.0](./LICENSE)  
 - **Research, Abstract, and Documentation:** [Creative Commons BY-NC-ND 4.0](./LICENSE.docs)
 
-This repository is maintained by **Codxvoid**, an open research lab under [UISR.org](https://uisr.org).  
+This repository is maintained by **Codxvoid**, an open research lab.  
 For contributions, collaborations, or usage requests, contact us at [devsorg@hotmail.com](mailto:devsorg@hotmail.com)..
 
 ---
