@@ -57,7 +57,9 @@ Please do not use for commercial purposes without permission.
 - **Research, Abstract, and Documentation:** [Creative Commons BY-NC-ND 4.0](./LICENSE.docs)
 
 This repository is maintained by **Codxvoid**, an open research lab.  
-For contributions, collaborations, or usage requests, contact us at [devsorg@hotmail.com](mailto:devsorg@hotmail.com)..
+For contributions, collaborations, or usage requests, contact us at 
+
+[devsorg@hotmail.com](mailto:devsorg@hotmail.com)
 
 ---
 
@@ -69,7 +71,7 @@ For contributions, collaborations, or usage requests, contact us at [devsorg@hot
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ikesharinandan" target="_blank">LinkedIn: iKeshariNandan</a>
+  <a href="https://linkedin.com/in/kesharins" target="_blank">LinkedIn: Keshari Nandan</a>
 </p>
 
 <p align="center">
